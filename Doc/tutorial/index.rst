@@ -42,7 +42,6 @@ The :ref:`glossary` is also worth going through.
 .. toctree::
    :numbered:
 
-   appetite.rst
    interpreter.rst
    introduction.rst
    controlflow.rst
